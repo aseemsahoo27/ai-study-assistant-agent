@@ -2,11 +2,24 @@
 
 An Agentic AI system that generates structured study material and quizzes — built entirely **without using any external API**.
 
+> A deployed, interactive AI-style learning assistant with real-time quiz evaluation and session-based UX.
+
 ---
 
 ## 🌐 Live Demo
 
-🔗 https://ai-study-assistant-agent.streamlit.app
+👉 **[Try the Live App](https://ai-study-assistant-agent.streamlit.app)**
+
+---
+
+## 📸 Demo
+> Real-time study generation and quiz evaluation in a clean UI.
+
+### 🔹 Study Output
+![Study Material Output](image-1.png)
+
+### 🔹 Quiz Interface
+![Quiz Interface](image.png)
 
 ---
 
@@ -29,3 +42,23 @@ User Input → Planner → Knowledge Base → Formatter → Memory → Output
 ---
 
 ## 📁 Project Structure
+
+```
+study-agent/
+│
+├── app.py
+├── agent/
+│   ├── main.py
+│   ├── planner.py
+│   ├── tools.py
+│   ├── formatter.py
+│   └── memory.py
+│
+├── data/
+│   └── topics.json
+│
+├── output/
+│   └── sample.txt
+│
+└── README.md
+```
