@@ -4,6 +4,12 @@ An Agentic AI system that generates structured study material and quizzes — bu
 
 ---
 
+## 🌐 Live Demo
+
+🔗 https://ai-study-assistant-agent.streamlit.app
+
+---
+
 ## 🚀 Features
 
 - 📘 Generates topic-based study notes  
