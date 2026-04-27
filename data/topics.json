@@ -1,0 +1,41 @@
+{
+  "photosynthesis": {
+    "definition": "Process by which plants make food using sunlight",
+    "key_points": [
+      "Occurs in chloroplasts",
+      "Uses sunlight, CO2, and water",
+      "Produces glucose and oxygen"
+    ],
+    "summary": "Photosynthesis is essential for life as it provides oxygen and food.",
+    "questions": [
+      "What is photosynthesis?",
+      "Where does it occur?",
+      "What are the inputs?"
+    ],
+    "answers": [
+      "process by which plants make food",
+      "chloroplasts",
+      "sunlight co2 and water"
+    ]
+  },
+
+  "gravity": {
+    "definition": "Force that attracts objects toward each other",
+    "key_points": [
+      "Discovered by Isaac Newton",
+      "Keeps planets in orbit",
+      "Depends on mass and distance"
+    ],
+    "summary": "Gravity is a fundamental force governing motion in the universe.",
+    "questions": [
+      "Who discovered gravity?",
+      "What does gravity depend on?",
+      "Why do objects fall?"
+    ],
+    "answers": [
+      "isaac newton",
+      "mass and distance",
+      "gravity"
+    ]
+  }
+}
